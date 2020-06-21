@@ -10,6 +10,6 @@ list of installed plugins
 To Run this Project
  - import wordpress file in phpmyadmin
  - past the whole folder in your htdocs folder
- - open http://localhost/wordpress/wp-admin and enter the flowing information:
+ - open http://localhost/M&Mmehdi/wp-admin and enter the flowing information:
            >  username: admin
            >  password: admin1234
