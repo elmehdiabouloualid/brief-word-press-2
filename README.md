@@ -5,11 +5,16 @@ list of installed plugins
 - Weglot Translate
 - Yoast SEO
 - GDRP Cookie Consent
+Installing
+steps to run this project
 
+run the file "commerce.sql" exist in the folder in phpmyadmin 
+And
 
-To Run this Project
- - import wordpress file in phpmyadmin
- - past the whole folder in your htdocs folder
- - open http://localhost/M&Mmehdi/wp-admin and enter the flowing information:
-           >  username: admin
-           >  password: admin1234
+Copy the main project folder and Paste in xampp/htdocs
+after that
+
+open http://localhost/wordpress/wp-admin
+enter the flowing information:
+UserName: admin
+Password: admin1234
