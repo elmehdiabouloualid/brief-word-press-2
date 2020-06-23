@@ -14,7 +14,7 @@ And
 Copy the main project folder and Paste in xampp/htdocs
 after that
 
-open http://localhost/wordpress/wp-admin
+open http://localhost/M&Mmehdi/wp-admin
 enter the flowing information:
 UserName: admin
 Password: admin1234
